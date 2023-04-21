@@ -1,9 +1,9 @@
 # Open-source sustainability transcription resources
 
-## Intro / Objective
+## Intro
 This repo contains down-to-earth transcription resources for low-frequency tasks.
 
-The goal is to offer freely accessible resources to people and organisations that need sustainability transcriptions sporadically.
+The goal is to offer resources for people and organisations that need sustainability transcriptions sporadically.
 
 As such, the scripts are *designed to run on relatively humble personal computers*. 
 
@@ -30,4 +30,4 @@ Pending.
 The examples folder contains examples of transcriptions performed with the scripts in this repo.
 
 ## License
- All resources in this repo are under an Apache 2.0 [license](LICENSE-2.0.txt).
+ All resources in this repo are under an Apache 2.0 license. License file available at the root of repo.
