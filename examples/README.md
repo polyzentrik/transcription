@@ -2,8 +2,6 @@
 ## Intro
 This folder contains examples of transcriptions performed with the scripts in this repo. 
 
-All videos or recordings used for testing are under licenses which allow usage. Credits are given below.
-
 ## v1 Examples
 These transcripts refer to minutes 10:30 to 16:19 of a panel discussion by the UN Climate Change (UNFCCC), on the topic of *Implementing Adaptation Finance*. 
 
@@ -17,3 +15,6 @@ These transcripts refer to a panel discussion by the Stockholm Environment Insti
 The video recording of the panel discussion is available [here](https://youtu.be/Vv5z-9MfqHw).
 
 Thanks a lot to SEI for making this type of discussions available to the public.
+
+## Licenses
+All videos or recordings used for testing are under licenses which allow usage. Credits given as appropriate.

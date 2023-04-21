@@ -30,4 +30,6 @@ Pending.
 The examples folder contains examples of transcriptions performed with the scripts in this repo.
 
 ## License
- All resources in this repo are under an Apache 2.0 license. License file available at the root of repo.
+The scripts in this repo are under an Apache 2.0 license. The license file available at the root of repo.
+
+! Please note the Apache 2.0 license does not cover the files in the examples folder. While the videos and recordings used for testing are under licensing terms that allow this type of usage, they have their own licenses. Refer to the original licenses for usage conditions. 
