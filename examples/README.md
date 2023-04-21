@@ -1,11 +1,11 @@
-# Exampels of transcriptions
+# Examples of transcriptions
 ## Intro
 This folder contains examples of transcriptions performed with the scripts in this repo. 
 
 All videos or recordings used for testing are under licenses which allow usage. Credits are given below.
 
 ## v1 Examples
-These transcripts refer to minutes x to y of a panel discussion by the UN Climate Change (UNFCCC), on the topic of *Implementing Adaptation Finance*. 
+These transcripts refer to minutes 10:30 to 16:19 of a panel discussion by the UN Climate Change (UNFCCC), on the topic of *Implementing Adaptation Finance*. 
 
 The video recording of the panel discussion is available [here](https://youtu.be/XAg8GOicRTs).
 
