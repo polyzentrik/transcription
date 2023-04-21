@@ -21,7 +21,7 @@ This script adds speaker segmentation to the results of the simple model. It det
 ### w. Diarisation
 This script takes a more sophisticated approach to speaker diarisation. It detects and labels speakers, breaks the main audio file into smaller audio segments corresponding to each speaker, transcribes each audio segment, and finally joins everything into a single TXT file split into sections labelled by speaker.
 
-> Prompts: The diarisation script allows usage of an external prompt file, which can increase the quality of the output. The prompts folder contains examples of prompt files applicable to sustainability.
+> Prompts: The diarisation script allows the usage of an external prompt file, which can increase the quality of the output. The prompts folder contains examples of prompt files applicable to sustainability.
 
 ## Instructions
 Pending.
@@ -30,6 +30,6 @@ Pending.
 The examples folder contains examples of transcriptions performed with the scripts in this repo.
 
 ## License
-The scripts in this repo are under an Apache 2.0 license. The license file available at the root of repo.
+The scripts in this repo are under an Apache 2.0 license. The license file is available at the root of this repo.
 
-! Please note the Apache 2.0 license does not cover the files in the examples folder. While the videos and recordings used for testing are under licensing terms that allow this type of usage, they have their own licenses. Refer to the original licenses for usage conditions. 
+! Please note the Apache 2.0 license does not cover the files in the examples folder. While the videos and recordings used for testing are under licensing terms that allow such usage, they have their own licenses. Refer to the original licenses for usage conditions. 
